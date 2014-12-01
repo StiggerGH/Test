@@ -4,7 +4,9 @@
  * (c) 2008 Jason Frame
  * Licensed under the MIT License (LICENSE)
  */
- 
+
+
+
 /*
  * jQuery plugin
  *

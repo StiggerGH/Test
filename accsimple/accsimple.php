@@ -8,7 +8,10 @@ class accsimple_module extends useraccounts_module
             
             $admid=$this->create_group('Администраторы','admins');
             $editid=$this->create_group('Редакторы','editors');
-            
+
+            $admid=$this->create_group('Администраторы','admins');
+            $editid=$this->create_group('Редакторы','editors');
+
             $id=$this->create_user('admin',"");
             $this->set_user_groups($id, array($editid, $admid));
             $this->set_user_active($id, true);
@@ -16,7 +19,7 @@ class accsimple_module extends useraccounts_module
             $id=$this->create_user('editor',"");
             $this->set_user_groups($id, array($editid));
             $this->set_user_active($id, true);
-            
+
          }
          
       function view_main()   

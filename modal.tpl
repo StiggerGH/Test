@@ -2,6 +2,9 @@
       <div class="box-modal_close arcticmodal-close"><i class='fa fa-times-circle'></i></div>
 
 
+
+
+
       <form>
          <div class=container-fluid>
             <div class=row>

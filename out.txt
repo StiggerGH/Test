@@ -9,10 +9,9 @@ sdfg
 
 
 
-<<<<<<< HEAD
+
+
 sdfgsdfgsdfgs
 
+
 sss
-=======
-sdfgsdfgsdfgs
->>>>>>> cb9dc66f9950a4b33ee78f20dce8075a8749f719

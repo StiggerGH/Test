@@ -9,11 +9,6 @@ sdfg
 
 
 asdfsafsadfsafdsfdsfdfddddddddddddddd
-<<<<<<< HEAD
-2222
-=======
-333333
->>>>>>> 5054af8731322b5d02ec13679fda35cedc21c2ee
 
 sdfgsdfgsdfgs
 

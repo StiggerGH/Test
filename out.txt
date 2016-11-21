@@ -8,10 +8,17 @@ g
 sdfg
 
 
+<<<<<<< HEAD
 ssssss
 ddddddddddddddddddddddd
 
 gsdfgsdfgs
+=======
+
+
+
+sdfgsdfgsdfgs
+>>>>>>> f41c9c3a51e259526933489b7316f031a86cf24c
 
 
 sss
